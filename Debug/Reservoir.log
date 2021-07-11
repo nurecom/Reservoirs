@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\DELL\source\repos\Reservoir\main.cpp(63,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DELL\source\repos\Reservoir\main.cpp(74,3): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\DELL\source\repos\Reservoir\main.cpp(78,3): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\DELL\source\repos\Reservoir\main.cpp(152,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\DELL\source\repos\Reservoir\main.cpp(223,3): warning C4551: в вызове функции отсутствует список аргументов
+  Reservoir.vcxproj -> C:\Users\DELL\source\repos\Reservoir\Debug\Reservoir.exe
